@@ -1,6 +1,6 @@
 # Sobre mim
 
-- :+1: Olá eu me chamo @Gustavo
+- :+1: Olá eu me chamo **@Gustavo**
 - 👀 Eu estou interessado em aprender a linguagem de javascript
 - 🌱 Meu email de contato é gusstavomusic@gmail.com
 - Estou sempre aberto a dicas
